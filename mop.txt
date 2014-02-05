@@ -1,0 +1,6 @@
+Jeg har ikke peiling på hva jeg gjør.
+
+git add mop.txt
+git commit
+	skriv inn stuff, lagre og lukk(????)
+git push
